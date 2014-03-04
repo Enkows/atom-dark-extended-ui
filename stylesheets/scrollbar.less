@@ -1,0 +1,24 @@
+@import "ui-variables";
+
+.tree-view-scroller,
+.vertical-scrollbar {
+  &::-webkit-scrollbar {
+    width: @scrollbar-size;
+    height: @scrollbar-size;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: @overlay-background-color;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: @panel-heading-background-color;
+    border: @scrollbar-thumb-padding solid transparent;
+    border-radius: @scrollbar-size;
+    background-clip: content-box;
+  }
+
+  &::-webkit-scrollbar-corner {
+    background-color: @overlay-background-color;
+  }
+}
