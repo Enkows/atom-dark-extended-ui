@@ -1,9 +1,15 @@
-# Atom Dark UI theme
+# Extended Atom Dark UI theme
 
-Default dark UI theme for Atom.
+`apm install atom-dark-extended-ui`
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_UI Themes_ drop-down menu.
+* Change scrollbar to suit dark theme.
+* Change tab height.
+* Change tree view font size and line height.
+* Add tree view padding.
 
-![](https://f.cloud.github.com/assets/671378/2265086/c6897dba-9e7b-11e3-945d-551cac610717.png)
+
+# Extended Theme
+![Extended Theme](http://enkows.github.io/atom-dark-extended-ui/images/extended.png)
+
+# Original Theme
+![Original Theme](http://enkows.github.io/atom-dark-extended-ui/images/original.png)
