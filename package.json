@@ -1,7 +1,7 @@
 {
   "name": "atom-dark-extended-ui",
   "theme": "ui",
-  "version": "0.26.1",
+  "version": "0.26.0",
   "description": "Extended default dark theme for interface components",
   "license": "MIT",
   "repository": "https://github.com/Enkows/atom-dark-extended-ui",
